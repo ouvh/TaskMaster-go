@@ -1,6 +1,7 @@
 # TaskMaster - Command-Line Task Manager
 
 TaskMaster is a powerful command-line task manager built with Go. It allows you to manage your tasks, track progress, set due dates, and organize by priority - all from your terminal!
+![image](https://github.com/user-attachments/assets/5e415025-de8a-485f-b904-5a9d007aa4f1)
 
 ## Features
 
