@@ -100,7 +100,6 @@ taskmaster/
 │   │   └── task.go           # Task data model
 │   └── storage/
 │       ├── storage.go        # Storage interface
-│       └── file_storage.go   # File-based storage implementation
 ├── go.mod                    # Go module file
 └── README.md                 # This file
 ```
@@ -122,7 +121,7 @@ To get started with TaskMaster immediately:
 
 ```bash
 # Install directly using go
-go install github.com/yourusername/taskmaster/cmd/taskmaster@latest
+go install github.com/ouvh/Task/cmd/taskmaster@latest
 
 # Create your first task
 taskmaster create --title "My first task" --desc "Getting started with TaskMaster" --priority 1
