@@ -1,0 +1,13 @@
+{
+    "id": 5,
+    "title": "Task 5",
+    "description": "Backup the production database",
+    "due_date": "2025-11-15T00:00:00Z",
+    "priority": 2,
+    "completed": true,
+    "progress": 100,
+    "created_at": "2025-05-14T13:05:12.123456+01:00",
+    "updated_at": "2025-05-14T13:05:12.123456+01:00"
+}
+
+

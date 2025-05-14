@@ -1,0 +1,11 @@
+ {
+    "id": 2,
+    "title": "Task 2",
+    "description": "Team meeting to discuss product roadmap",
+    "due_date": "2025-12-01T00:00:00Z",
+    "priority": 3,
+    "completed": true,
+    "progress": 100,
+    "created_at": "2025-05-14T13:05:12.123456+01:00",
+    "updated_at": "2025-05-14T13:05:12.123456+01:00"
+  }
