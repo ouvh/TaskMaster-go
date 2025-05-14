@@ -188,6 +188,3 @@ If you encounter any bugs, please create an issue on GitHub with:
 - Steps to reproduce
 - Expected vs actual behavior
 
-## License
-
-[MIT](LICENSE)
