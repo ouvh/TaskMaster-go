@@ -23,8 +23,8 @@ TaskMaster is a powerful command-line task manager built with Go. It allows you 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/taskmaster.git
-   cd taskmaster
+   git clone https://github.com/ouvh/TaskMaster-go.git
+   cd TaskMaster-go
    ```
 
 2. Build the application:
@@ -121,7 +121,7 @@ To get started with TaskMaster immediately:
 
 ```bash
 # Install directly using go
-go install github.com/ouvh/Task/cmd/taskmaster@latest
+go install github.com/ouvh/TaskMaster-go/cmd/taskmaster@latest
 
 # Create your first task
 taskmaster create --title "My first task" --desc "Getting started with TaskMaster" --priority 1
